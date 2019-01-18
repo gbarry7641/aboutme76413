@@ -1,7 +1,7 @@
 h1{
   color: white;
   font-family: Times 'Times New Roman', Times, serif;
-  font-size: 100%
+  font-size: 100%;
 }
 h2{
   color: white;
@@ -9,10 +9,10 @@ h2{
 p{
   color: white;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 75%;
+  font-size: 100%;
 }
 l{
-  font-size: 40%;
+  font-size: 100%;
   color: white;
 }
 
