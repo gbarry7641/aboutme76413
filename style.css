@@ -1,19 +1,19 @@
 h1{
-  color: white;
+  color: red;
   font-family: Times 'Times New Roman', Times, serif;
-  font-size: 100%;
+  font-size: 200%;
 }
 h2{
-  color: white;
+  color: red;
 }
 p{
-  color: white;
+  color: Red;
   font-family: 'Times New Roman', Times, serif;
   font-size: 100%;
 }
 l{
-  font-size: 100%;
-  color: white;
+  font-size: 125%;
+  color: Blue;
 }
 
 body {
